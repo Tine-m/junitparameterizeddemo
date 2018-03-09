@@ -1,2 +1,2 @@
 # junitparameterizeddemo
-Illustrates JUnits @Parameters annotation
+Illustrates JUnit 4's @Parameters annotation
